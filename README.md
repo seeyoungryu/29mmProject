@@ -19,16 +19,6 @@
   
 -     
 ---
-### ✔️ERD (임시)
-
-  ![스크린샷 2024-03-20 오후 9.51.05.png](..%2F..%2F..%2F..%2FUsers%2Fseeyoung%2FDesktop%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-20%20%EC%98%A4%ED%9B%84%209.51.05.png)
-
-
-### **✔️API (임시)**
-
-https://www.notion.so/seeyoungryu/API-e9f860a5b386438d9e28bc75aed5e664
-
----
 ### ✔️Tech Skills
 
 - Java17
@@ -39,6 +29,17 @@ https://www.notion.so/seeyoungryu/API-e9f860a5b386438d9e28bc75aed5e664
 - MySQL
 - (Docker)
 - (Github Actions)
+***
+
+### 💡 ERD (임시)
+
+https://drawsql.app/teams/seeyoung-ryu/diagrams/29mm
+
+### **💡 API (임시)**
+
+https://www.notion.so/seeyoungryu/API-e9f860a5b386438d9e28bc75aed5e664
+
+---
 
 
 
@@ -59,8 +60,7 @@ https://www.notion.so/seeyoungryu/API-e9f860a5b386438d9e28bc75aed5e664
 **✅ 알림**
 
 ---
-
-## **Trouble Shooting**
+## **📌 Trouble Shooting**
 
 -
 
