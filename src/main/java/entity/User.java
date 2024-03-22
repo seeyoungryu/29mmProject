@@ -30,3 +30,8 @@ public class User {
     @Column(nullable = false, length = 50)
     private String address;
 }
+
+
+// JPA를 위한 protected 기본-매개변수 없는 생성자 > @Noargs
+
+// Builder를 통한 객체 생성을 위한 private 생성자 > @Allargs
